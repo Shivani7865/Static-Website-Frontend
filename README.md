@@ -74,13 +74,10 @@ Edit
 └── README.md
 📌 Live Demo
 
-<h3>🎥 Project Demo</h3>
+### 🎥 Live Demo
 
-<video width="100%" controls>
-  <source src="https://shivani7865.github.io/Static-Website-Frontend/assets/demo.mp4" type="video/mp4">
+[![Watch the video](https://shivani7865.github.io/Static-Website-Frontend/assets/demo-thumbnail.png)](https://shivani7865.github.io/Static-Website-Frontend/assets/demo.mp4)
 
-</video>
-![📽️ Watch full demo video](https://shivani7865.github.io/Static-Website-Frontend/assets/demo.mp4)
 
 
 🙏 Acknowledgements
