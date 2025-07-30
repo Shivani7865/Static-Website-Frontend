@@ -74,12 +74,15 @@ Edit
 └── README.md
 📌 Live Demo
 
-<video width="100%" controls>
-  <source src="<h3>🎥 Live Output Demo</h3>
+<h3>🎥 Project Demo</h3>
+
 <video width="100%" controls>
   <source src="https://shivani7865.github.io/Static-Website-Frontend/assets/demo.mp4" type="video/mp4">
 
 </video>
+![📽️ Watch full demo video](https://shivani7865.github.io/Static-Website-Frontend/assets/demo.mp4)
+
+
 🙏 Acknowledgements
 
 Bootstrap Documentation
