@@ -20,6 +20,7 @@ A responsive and accessible static website built using **HTML5**, **CSS3**, **Bo
 ![image alt](https://github.com/Shivani7865/Static-Website-Frontend/blob/ecc52dc7f8028ac4f06b41ddab4b07716a0b9c35/site2.png)
 ![image alt](https://github.com/Shivani7865/Static-Website-Frontend/blob/3605ab45239fbe1570dfa8aca794dbff93fdf34b/site3.png)
 ![image alt](https://github.com/Shivani7865/Static-Website-Frontend/blob/a93067ccaf606ecaa4691cb57f8e3f9df5f4a476/jytorilinga.png)
+![image alt](https://github.com/Shivani7865/Static-Website-Frontend/blob/54a680786a92d0d5f5ede34e4236d57b815c0de9/site5.png)
 
 
 ## Detailed View
