@@ -72,11 +72,6 @@ Edit
 ├── images/
 │   └── *.jpg
 └── README.md
-📌 Live Demo
-
-### 🎥 Live Demo
-
-[![Watch the video](https://github.com/Shivani7865/Static-Website-Frontend/blob/cf628456c01082414850f005c31d603a8c38dc74/home.png)](https://shivani7865.github.io/Static-Website-Frontend/assets/demo.mp4)
 
 
 
