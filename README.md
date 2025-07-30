@@ -73,7 +73,7 @@ Edit
 │   └── *.jpg
 └── README.md
 📌 Live Demo
-🔗 View Website Live
+🔗 ![video alt](https://shivani7865.github.io/Static-Website-Frontend/)
 
 🙏 Acknowledgements
 
