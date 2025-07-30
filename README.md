@@ -3,19 +3,6 @@
 
 A responsive and accessible static website built using **HTML5**, **CSS3**, **Bootstrap**, and **JavaScript**, designed to provide informative content about the 12 sacred Jyotirlinga temples in India.
 
-## 🌟 Features
-
-- ✅ **Responsive Design** using Bootstrap Grid and Flexbox
-- ✅ **Semantic HTML5** for improved accessibility and SEO
-- ✅ **CSS Architecture** for clean and maintainable styling
-- ✅ **Interactive UI** with scroll animations and dynamic elements
-- ✅ **Optimized for performance** with lightweight scripts and clean markup
-
-## 📸 Preview
-
-![Website Screenshot](# 🛕 Jyotirlinga Temple Info Website
-
-A responsive and accessible static website built using **HTML5**, **CSS3**, **Bootstrap**, and **JavaScript**, designed to provide informative content about the 12 sacred Jyotirlinga temples in India.
 
 ## 🌟 Features
 
@@ -27,7 +14,7 @@ A responsive and accessible static website built using **HTML5**, **CSS3**, **Bo
 
 ## 📸 Preview
 
-![image alt](path/to/screenshot.png)
+![image alt](https://github.com/Shivani7865/Static-Website-Frontend/blob/dc2d69eb6cb8a99199f085d0f32399e3023ffcb5/home.png)
 
 ## 🔧 Tech Stack
 
