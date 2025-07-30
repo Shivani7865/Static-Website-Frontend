@@ -16,6 +16,11 @@ A responsive and accessible static website built using **HTML5**, **CSS3**, **Bo
 
 ![image alt](https://github.com/Shivani7865/Static-Website-Frontend/blob/dc2d69eb6cb8a99199f085d0f32399e3023ffcb5/home.png)
 
+## 12 Jyotirlinga short description
+![image alt](https://github.com/Shivani7865/Static-Website-Frontend/blob/ecc52dc7f8028ac4f06b41ddab4b07716a0b9c35/site2.png)
+
+## Detailed View
+
 ## 🔧 Tech Stack
 
 - HTML5
