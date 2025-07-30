@@ -24,6 +24,7 @@ A responsive and accessible static website built using **HTML5**, **CSS3**, **Bo
 
 
 ## Detailed View
+![image alt](https://github.com/Shivani7865/Static-Website-Frontend/blob/ac5a7e4bfee752dfa8cafd914f26f6318ef34d1d/detail.png)
 
 ## 🔧 Tech Stack
 
